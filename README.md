@@ -107,12 +107,3 @@ docker compose exec backend python scripts/test_agents.py
 
 ---
 
-## 6. Study Guides (Learn Modules)
-
-For interview preparation, detailed deep dives of every technology and concept used in this project are located in the `learning/` directory:
-- [`01_postgres.md`](file:///d:/new%20pr/learning/01_postgres.md): Constraints, indexing, composite B-Trees, CTE execution, and denormalization.
-- [`02_fastapi.md`](file:///d:/new%20pr/learning/02_fastapi.md): Routing, ASGI async loop, dependency injection (`Depends`), and request parsing.
-- [`03_redis.md`](file:///d:/new%20pr/learning/03_redis.md): Cache-aside pattern, key MD5 hashing, TTLs, and graceful degradation fallback.
-- [`04_langgraph.md`](file:///d:/new%20pr/learning/04_langgraph.md): StateGraph workflows, state transitions, structured validation schemas, and LangChain comparisons.
-- [`05_docker.md`](file:///d:/new%20pr/learning/05_docker.md): Orchestration, bridge networks, healthchecks, and data persistence volumes.
-- [`06_agents.md`](file:///d:/new%20pr/learning/06_agents.md): Separation of concerns, model prompting constraints, and write-protected SQL generation.
